@@ -17,3 +17,8 @@ Advancement in digital pathology and artificial intelligence has enabled deep le
 If you find our work useful Please consider citing our paper:
 
 Accepted at IEEE-BHI 2021: https://arxiv.org/pdf/2106.07068.pdf
+
+## Project Video
+
+[![BHI Video](https://img.youtube.com/vi/t856cJ1lgyQ/hqdefault.jpg)](https://www.youtube.com/watch?v=t856cJ1lgyQ)
+
